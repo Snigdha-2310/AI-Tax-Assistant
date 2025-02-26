@@ -8,25 +8,6 @@
 
 Built on the powerful Vertex AI platform, TaxEase.AI utilizes a comprehensive knowledge base within Datastore, containing up-to-date tax forms, instructions, FAQs, and more. Seamless communication via OpenAPI and a sophisticated Retrieval Augmented Generation (RAG) approach ensure that TaxEase.AI provides accurate, personalized, and easy-to-understand guidance throughout the entire tax filing process. 
 
-## **Contributors 🦖**
-<table style="width:100%; text-align:center;border: none;">
-    <tr>
-        <td style="width:33.33%;"><img src="https://github.com/VishalTheHuman.png/" style="width:100%; height:auto;"></td>
-        <td style="width:33.33%;"><img src="https://github.com/amri-tah.png/" style="width:100%; height:auto;"></td>
-        <td style="width:33.33%;"><img src="https://github.com/SaranDharshanSP.png/" style="width:120%; height:auto;"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/VishalTheHuman" style="display:block; margin:auto;">@VishalTheHuman</a></td>
-        <td><a href="https://github.com/amri-tah" style="display:block; margin:auto;">@amri-tah</a></td>
-        <td><a href="https://github.com/SaranDharshanSP" style="display:block; margin:auto;">@SaranDharshanSP</a></td>
-    </tr>
-    <tr>
-        <td><b style="display:block; margin:auto;">Vishal S</b></td>
-        <td><b style="display:block; margin:auto;">Amritha Nandini</b></td>
-        <td><b style="display:block; margin:auto;">Saran Dharshan S P</b></td>
-    </tr>
-</table>
-
 ## **Inspiration ✨**
 
 Our inspiration for **TaxEase.AI** stemmed from a deep empathy for the millions of Americans who dread the annual ritual of tax filing.  Emmy-winning journalist Johnny Harris eloquently captured this sentiment in his video essay, 
@@ -268,10 +249,7 @@ This document includes all the instructional manuals necessary for an individual
 ✅Apply grounding heuristics filter
 ```
 
-**Company name**
-```
-TaxEase.AI
-```
+
 
 Data
 **Data store summarization prompt and model selection**
