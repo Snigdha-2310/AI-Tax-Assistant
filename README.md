@@ -10,7 +10,7 @@ Built on the powerful Vertex AI platform, TaxEase.AI utilizes a comprehensive kn
 
 ## **Inspiration ✨**
 
-Our inspiration for **TaxEase.AI** stemmed from a deep empathy for the millions of Americans who dread the annual ritual of tax filing.  Emmy-winning journalist Johnny Harris eloquently captured this sentiment in his video essay, 
+My  inspiration for **TaxEase.AI** stemmed from a deep empathy for the millions of Americans who dread the annual ritual of tax filing.  Emmy-winning journalist Johnny Harris eloquently captured this sentiment in his video essay, 
  "[*Why Americans Pay to Do Their Taxes ?* ](https://www.youtube.com/watch?v=ZhV4Z76mXrI)". Harris exposed the absurdity of a system that forces its citizens to navigate a labyrinth of complex forms and expensive software, all while simpler, government-run solutions exist in numerous other countries. 
 
 We've all felt the frustration – the hours wasted deciphering cryptic forms, the fear of missing a crucial deduction, the sinking feeling when you realize you need to shell out for expensive tax software. It's a system seemingly designed to confuse and intimidate, turning a simple civic duty into a stressful, time-consuming ordeal. What's even more infuriating is that it doesn't have to be this way.  As Harris pointed out, this stark contrast highlights the absurdity of the American system, where powerful corporations profit from a process that should be a simple service for all citizens. We were tired of seeing hardworking Americans taken advantage of, their time and money siphoned away by a system rigged against them. We knew there had to be a better way. 
